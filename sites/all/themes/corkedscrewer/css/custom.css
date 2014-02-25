@@ -1,0 +1,72 @@
+#site-name {
+  display: none;
+}
+
+#site-slogan {
+  float: none;
+  border-bottom: 1px solid #C5BEAA;
+  padding-bottom: 8px;
+  font-size: 23px;
+  font-style: normal;
+}
+
+#name-and-slogan {
+  display: block;
+}
+
+#header #logo {
+  float: none;
+}
+
+#header-inside-left {
+  text-align: center;
+}
+
+#page-wrapper {
+  padding-top: 10px;
+}
+
+.breadcrumb-wrapper {
+  display: none;
+}
+
+#main-content .node-info .user, .node-info .username {
+  display: none;
+}
+
+.node-meta .field-name-field-tags {
+  display: none;
+}
+
+.view-home-page .views-row {
+  border-bottom: 1px solid #d7d4d4;
+}
+
+#main-content .node-meta {
+  text-align: right;
+}
+
+.poll .vote-form .choices {
+  margin: 0;
+}
+
+.field-name-field-poll.field-type-entityreference {
+  background: none repeat scroll 0 0 #E3DCC8;
+  padding: 8px;
+}
+
+.field-name-field-poll.field-type-entityreference .node {
+  margin-bottom: 0px !important;
+}
+
+.field-name-field-poll.field-type-entityreference h2 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  line-height: auto;
+  font-size: 16px;
+  color: #888;
+}
+
+.field-name-field-poll.field-type-entityreference .node-meta {
+  display: none;
+}
